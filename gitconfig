@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = cristiantrinidadph@gmail.com
+	name = cristian trinidad
